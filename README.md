@@ -1,7 +1,9 @@
 
 # Universal Sentence Encoder & Principal Component Analysis Visualization
 
-This project uses [tensorflow universal sentence encoder](https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder) to encode the text and then uses [PCA](https://github.com/mljs/pca) to reduce the dimensions and then plot with [D3](https://github.com/d3/d3).
+This project uses [tensorflow universal sentence encoder](https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder) to encode the text and then uses [PCA](https://github.com/mljs/pca) to reduce the dimensions and then plot with [D3](https://github.com/d3/d3). 
+
+[Demo](https://tospe.github.io/use-pca-plot/)
 
 ![how to](how_to.png)
 
